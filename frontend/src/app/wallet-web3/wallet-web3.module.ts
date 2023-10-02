@@ -1,3 +1,23 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://owasp-juice.shop
+*    Release: https://github.com/juice-shop/juice-shop/releases/tag/v13.3.0
+*    Source File: app.module.ts
+*    
+*    Copyrights:
+*      copyright (c) 2014-2021 bjoern kimminich
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core'
 import { CommonModule } from '@angular/common'
 import { ReactiveFormsModule, FormsModule } from '@angular/forms'

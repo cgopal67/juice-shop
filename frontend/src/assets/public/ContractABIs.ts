@@ -1,3 +1,24 @@
+/*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://cardstack.com/
+*    Release: https://github.com/cardstack/cardstack/releases/tag/v1.0.53
+*    Source File: account-registration-nft.ts
+*    
+*    Copyrights:
+*      copyright (c) 2019
+*      copyright (c) 2017 edward faulkner and the cardstack contributors
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
 export const nftABI = [
   {
     inputs: [],
