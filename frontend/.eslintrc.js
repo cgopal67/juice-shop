@@ -1,4 +1,25 @@
 /*
+*    ------ BEGIN LICENSE ATTRIBUTION ------
+*    
+*    Portions of this file have been appropriated or derived from the following project(s) and therefore require attribution to the original licenses and authors.
+*    
+*    Project: https://www.npmjs.com/package/eslint-config-himynameisdave
+*    Release: https://github.com/himynameisdave/eslint-config-himynameisdave/releases/tag/v4.6.0
+*    Source File: off.js
+*    
+*    Copyrights:
+*      copyright (c) 2017-2020 @himynameisdave
+*      copyright (c) 2017-2020 dave lunny <d@velunny.com>
+*    
+*    Licenses:
+*      MIT License
+*      SPDXId: MIT
+*    
+*    Auto-attribution by Threatrix, Inc.
+*    
+*    ------ END LICENSE ATTRIBUTION ------
+*/
+/*
  * Copyright (c) 2014-2023 Bjoern Kimminich & the OWASP Juice Shop contributors.
  * SPDX-License-Identifier: MIT
  */
